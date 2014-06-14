@@ -1,5 +1,5 @@
 # Widgets
-require 'widgets/core'
+# require 'widgets/core'
 require 'widgets/css_template'
 require 'widgets/highlightable'
 require 'widgets/disableable'
